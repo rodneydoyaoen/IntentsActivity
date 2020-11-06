@@ -3,4 +3,16 @@
     <string name="login">LOGIN</string>
     <string name="password">PASSWORD:</string>
     <string name="username">USERNAME:</string>
+    <string name="play_music">Play Music</string>
+    <string name="search_web">Search Web</string>
+    <string name="compose_text">Compose Text</string>
+    <string name="reserve_taxi">Reserve Taxi</string>
+    <string name="open_calendar">Open Calendar</string>
+    <string name="tasks">Tasks</string>
+    <string name="open_google_play">Open Google Play</string>
+    <string name="search_in_browser">Search in Browser</string>
+    <string name="change_wallpaper">Change Wallpaper</string>
+    <string name="open_youtube">Open Youtube</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="get_file">Get File</string>
 </resources>
